@@ -1,2 +1,2 @@
 # Java-Study
-Exercicies from myself.
+Exercicies made using Intellij Community Edition
